@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FreshCart/static/css/main.22ab27b4.css",
-    "main.js": "/FreshCart/static/js/main.79a0429e.js",
+    "main.js": "/FreshCart/static/js/main.b6764301.js",
     "static/js/787.8e15dc5b.chunk.js": "/FreshCart/static/js/787.8e15dc5b.chunk.js",
     "static/media/fa-solid-900.ttf": "/FreshCart/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/FreshCart/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
@@ -11,8 +11,6 @@
     "static/media/main1.jpg": "/FreshCart/static/media/main1.72ac4508283536a1b4b4.jpg",
     "static/media/fa-regular-400.ttf": "/FreshCart/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
     "static/media/main2.jpg": "/FreshCart/static/media/main2.8ac9d1f5fe43b0969d28.jpg",
-    "static/media/pexels-rdne-stock-project-7821528.jpg": "/FreshCart/static/media/pexels-rdne-stock-project-7821528.9801d6f631b688a3410a.jpg",
-    "static/media/pexels-anete-lusina-6331237.jpg": "/FreshCart/static/media/pexels-anete-lusina-6331237.7f332e1e875d317924f4.jpg",
     "static/media/fa-regular-400.woff2": "/FreshCart/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
     "static/media/appstore-btn.svg": "/FreshCart/static/media/appstore-btn.e0458174c310ac85a64fdaaccc0b5541.svg",
     "static/media/american-express.svg": "/FreshCart/static/media/american-express.c284d403100b22ca4077d7ea038603b1.svg",
@@ -29,11 +27,11 @@
     "static/media/slick.woff": "/FreshCart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FreshCart/index.html",
     "main.22ab27b4.css.map": "/FreshCart/static/css/main.22ab27b4.css.map",
-    "main.79a0429e.js.map": "/FreshCart/static/js/main.79a0429e.js.map",
+    "main.b6764301.js.map": "/FreshCart/static/js/main.b6764301.js.map",
     "787.8e15dc5b.chunk.js.map": "/FreshCart/static/js/787.8e15dc5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22ab27b4.css",
-    "static/js/main.79a0429e.js"
+    "static/js/main.b6764301.js"
   ]
 }
