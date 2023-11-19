@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/FreshCart/static/css/main.dd4d2270.css",
-    "main.js": "/FreshCart/static/js/main.2f8001f5.js",
+    "main.css": "/FreshCart/static/css/main.a99a6b8e.css",
+    "main.js": "/FreshCart/static/js/main.d1fa7323.js",
     "static/js/787.8e15dc5b.chunk.js": "/FreshCart/static/js/787.8e15dc5b.chunk.js",
+    "static/media/maim3.jpg": "/FreshCart/static/media/maim3.8d34c846a4723972907b.jpg",
     "static/media/fa-solid-900.ttf": "/FreshCart/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/FreshCart/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/fa-solid-900.woff2": "/FreshCart/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
-    "static/media/slider-image-2.jpg": "/FreshCart/static/media/slider-image-2.2ad87f8da8ab0d6a0e45.jpg",
     "static/media/fa-brands-400.woff2": "/FreshCart/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
     "static/media/error.svg": "/FreshCart/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/main1.jpg": "/FreshCart/static/media/main1.72ac4508283536a1b4b4.jpg",
     "static/media/fa-regular-400.ttf": "/FreshCart/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/main2.jpg": "/FreshCart/static/media/main2.8ac9d1f5fe43b0969d28.jpg",
     "static/media/small-supermarket-grocery-push-cart-shopping-toy-with-wheels-isolated-blue-pink-pastel-co_80942-8251.jpg": "/FreshCart/static/media/small-supermarket-grocery-push-cart-shopping-toy-with-wheels-isolated-blue-pink-pastel-co_80942-8251.08a7d04cc43a7b94acca.jpg",
     "static/media/logo-main.png": "/FreshCart/static/media/logo-main.ec67d3cf916c55029264.png",
     "static/media/fa-regular-400.woff2": "/FreshCart/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
@@ -27,12 +29,12 @@
     "static/media/slick.ttf": "/FreshCart/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/FreshCart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FreshCart/index.html",
-    "main.dd4d2270.css.map": "/FreshCart/static/css/main.dd4d2270.css.map",
-    "main.2f8001f5.js.map": "/FreshCart/static/js/main.2f8001f5.js.map",
+    "main.a99a6b8e.css.map": "/FreshCart/static/css/main.a99a6b8e.css.map",
+    "main.d1fa7323.js.map": "/FreshCart/static/js/main.d1fa7323.js.map",
     "787.8e15dc5b.chunk.js.map": "/FreshCart/static/js/787.8e15dc5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd4d2270.css",
-    "static/js/main.2f8001f5.js"
+    "static/css/main.a99a6b8e.css",
+    "static/js/main.d1fa7323.js"
   ]
 }
